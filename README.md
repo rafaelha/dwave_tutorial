@@ -12,4 +12,4 @@ your device.
 Once everything is installed, clone download this repository, start Jupyter, and
 open the notebook *zero_sum_subset_main.ipynb*.
 
-If you don't want to run anything but just have a look, click here: https://github.com/rafaelha/dwave_tutorial/blob/master/zero_sum_subset_main.ipynb
+If you don't want to run anything but just have a look, click [here](https://github.com/rafaelha/dwave_tutorial/blob/master/zero_sum_subset_main.ipynb)
