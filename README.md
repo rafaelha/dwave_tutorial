@@ -1,4 +1,4 @@
-# The Zero-sum subset *or* How to Program a Quantum Computer in One Day
+# The Zero-sum Subset Problem *or* How to Program a Quantum Computer in a Matter of Hours
 
 ### Installation instructions
 
